@@ -1,0 +1,1 @@
+# play-nginx-proxy-manager
