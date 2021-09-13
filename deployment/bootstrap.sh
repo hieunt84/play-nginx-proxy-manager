@@ -29,7 +29,8 @@ cat >> "/etc/hosts" <<END
 END
 
 ##########################################################################################
-# SECTION 2: INSTALL docker, vmware, git, docker-compose
+# SECTION 2: Install  Dependencies
+# docker, vmware-tools, git, docker-compose
 
 # install docker
 
